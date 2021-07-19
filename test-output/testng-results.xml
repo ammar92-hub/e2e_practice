@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25801" started-at="2020-07-31T22:39:13 IST" finished-at="2020-07-31T22:39:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25801" started-at="2020-07-31T22:39:13 IST" finished-at="2020-07-31T22:39:39 IST">
+      <class name="testcases.HomePage">
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:testcases.HomePage@711f39f9]" name="loadPage" is-config="true" duration-ms="17486" started-at="2020-07-31T22:39:13 IST" finished-at="2020-07-31T22:39:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="signIn()[pri:0, instance:testcases.HomePage@711f39f9]" name="signIn" duration-ms="7954" started-at="2020-07-31T22:39:30 IST" finished-at="2020-07-31T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.HomePage@711f39f9]" name="tearDown" is-config="true" duration-ms="295" started-at="2020-07-31T22:39:38 IST" finished-at="2020-07-31T22:39:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
